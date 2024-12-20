@@ -63,7 +63,7 @@ OBW     -           80   5.7      -      -      -      -
    - Click buttons to select words for your test case title, or manually edit the title using the text box.
 
 3. Output:  
-   - The constructed title is displayed in the GUI and printed to the terminal, with sections separated by underscores (`_`).
+   - The constructed title is displayed in the GUI and printed to the terminal, with sections separated by default: (` - `).
 
 Integration:
 - To integrate this tool into other programs, use the function `run_file_reader()` to retrieve the final constructed test case title as a string.
