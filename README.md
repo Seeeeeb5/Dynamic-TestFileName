@@ -3,6 +3,8 @@ A really badly made program that lets you modually construct a filename. Primari
 
 Dynamic Test Case Title Builder
 
+Readme describes the _V version of the files. Once more work is done on the vertical version I will add context for that in here too
+
 This GUI-based tool dynamically creates and formats test case titles by reading data from a CSV file (`data_collection_template_V.csv`). 
 The CSV is structured such that each **column** represents each section of the filename, while each **row** contains options for that section. 
 The first word in each column acts as the section title, displayed in the GUI, and subsequent words become clickable buttons for users to select and construct their test case titles. 
