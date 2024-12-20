@@ -1,0 +1,6 @@
+Antenna,Mode,Protocol,Frequency,Test,,,,Activation
+Conducted,A,Alpha,2400,UE,UE Full Spectrum,UE UpperBandEdge,UE LowerBandEdge,API
+Radiated,B,Beta,5800,PSD,Peak PSD,AVG PSD,,Live
+,,,,PWR,Peak PWR,AVG PWR,,
+,,,,OBW,,,,
+,,,,DC,,,,
